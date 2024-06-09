@@ -1,2 +1,2 @@
 # glosari-ai
-Glosari Kecerdasan Buatan Bahasa Inggeris - Bahasa Melayu
+Glosari Bahasa Inggeris - Bahasa Melayu untuk Kecerdasan Buatan berserta makna.
